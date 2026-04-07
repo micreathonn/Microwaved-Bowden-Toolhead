@@ -2,6 +2,7 @@
 
 This is an SLM toolhead designed for the Tricorn hotend.
 
+**THIS IS STILL A WIP AND HAS NOT BEEN TESTED YET**
 ---
 
 ## Features
