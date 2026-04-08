@@ -18,6 +18,7 @@ This is an SLM toolhead designed for the Tricorn hotend.
 - CPAP cooling
 - Pull-through belt routing
 - Lightweight (~100g)
+- Center of mass between the belts
 
 
 ## Requirements
