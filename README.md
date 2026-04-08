@@ -2,8 +2,10 @@
 
 This is an SLM toolhead designed for the Tricorn hotend.
 
+![Toolhead render](images/MicrowavedBowdenToolhead-1.png)
+
 **THIS IS STILL A WIP AND HAS NOT BEEN TESTED YET**
----
+
 
 ## Features
 
@@ -35,7 +37,8 @@ This is an SLM toolhead designed for the Tricorn hotend.
 ### Main Body
 Ideally manufactured from **aluminium**.
 
-Since there is no hotend fan, maximizing heat conduction away from the heatsink is important for thermal performance.
+Since there is no hotend fan, maximizing heat conduction away from the heatsink is important
+to avoid heat creep.
 
 ### Hotend Brace
 Should be made from **titanium** to minimise heat transfer between the hotend and the main body.
