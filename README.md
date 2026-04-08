@@ -54,6 +54,15 @@ Using **titanium screws** for the brace further reduces thermal conduction.
 
 ##Acknowledgements
 
-Thanks to Solar and Diode King for test fitting
-and feedback, and anyonr else who gave advice 
+Thanks to:
+
+CloakedWayne for his SLM belt clamp
+
+Colphaer for his boombox, kevlar sheathing 
+and advice on bowden fittings
+
+Solar and Diode King for test fitting
+and feedback 
+
+Anyone else who gave advice 
 along the way.
