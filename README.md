@@ -31,6 +31,7 @@ This is an SLM toolhead designed for the Tricorn hotend.
 - Bowden extruder (Boombox is best)
 - Colphaer's kevlar sheath to keep the
   bowden tube from stretching (optional)
+- m3 tap for aluminium
 - 2× M3 × 2.5mm set screws  
 - 3× M3 × 6mm BHCS  
 - 4× M3 × 8mm BHCS  
