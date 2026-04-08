@@ -28,7 +28,6 @@ This is an SLM toolhead designed for the Tricorn hotend.
 - 15mm CPAP tube
 - ECAS fitting (4mm tube)
 - Monolith belt spacing
-- 
 - Bowden extruder (Boombox is best)
 - Colphaer's kevlar sheath to keep the
   bowden tube from stretching (optional)
@@ -52,7 +51,8 @@ Should be made from **titanium** to minimise heat transfer between the hotend an
 Using **titanium screws** for the brace further reduces thermal conduction.
 
 
-##Acknowledgements
+
+## Acknowledgements
 
 Thanks to:
 
