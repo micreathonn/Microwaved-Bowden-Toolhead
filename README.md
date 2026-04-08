@@ -4,6 +4,9 @@ This is an SLM toolhead designed for the Tricorn hotend.
 
 ![Toolhead render](Images/MicrowavedBowdenToolhead-1.png)
 
+![Toolhead render](Images/MicrowavedBowdenToolhead-2.png)
+
+
 **THIS IS STILL A WIP AND HAS NOT BEEN TESTED YET**
 
 
