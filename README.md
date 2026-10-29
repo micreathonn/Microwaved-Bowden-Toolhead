@@ -1,56 +1,41 @@
 # Microwaved Bowden Toolhead
 
-This is an SLM toolhead designed for the Tricorn hotend.
+This is an SLM toolhead designed for Chube and Tricorn hotends.
 
-![Toolhead render](Images/MicrowavedBowdenToolhead-1.png)
+![Toolhead render](Images/MBTTricorn1.png)
 
-![Toolhead render](Images/MicrowavedBowdenToolhead-2.png)
+![Toolhead render](Images/MBTTricorn2.png)
 
+![Toolhead render](Images/MBTTricorn3.png)
 
-**THIS IS STILL A WIP AND HAS NOT BEEN TESTED YET**
+![Toolhead render](Images/MBTChube1.png)
 
+![Toolhead render](Images/MBTChube2.png)
+
+![Toolhead render](Images/MBTChube3.png)
 
 ## Features
-
-- Bowden extrusion (Boombox)
-- Mounting points for Colphaer’s Kevlar sheathing system
-- Bottom hotend bracing
-- CPAP cooling
+- Support for Chube and Tricorn hotends
+- Bowden extrusion
+- Mounting points for a kevlar sheath
+- Tricorn bottom bracing
+- Custom Tricorn sheild
+- CPAP part cooling
 - Pull-through belt routing
-- Lightweight (~100g)
 - Center of mass between the belts
 
 
 ## Requirements
 
-- Tricorn hotend
+- Tricorn or Chube
 - Monolith SLM belt clamp
 - Beacon H probe
-- 15mm CPAP tube
+- 16mm CPAP tube
 - ECAS fitting (4mm tube)
 - Monolith belt spacing
-- Bowden extruder (Boombox is best)
-- Colphaer's kevlar sheath to keep the
-  bowden tube from stretching (optional)
-- m3 tap for aluminium
-- 2× M3 × 2.5mm set screws  
-- 3× M3 × 6mm BHCS  
-- 4× M3 × 8mm BHCS  
-- 3× M3 × 4mm FHCS *(preferably titanium)*  
-
-
-
-## Material Choice
-
-### Main Body
-Ideally manufactured from **aluminium**.
-
-Since there is no hotend fan, maximizing heat conduction away from the heatsink is important
-to avoid heat creep.
-
-### Hotend Brace (optional)
-Should be made from **titanium** to minimise heat transfer between the hotend and the main body.
-Using **titanium screws** for the brace further reduces thermal conduction.
+- Bowden extruder
+- Kevlar sheath (optional)
+- M3 tap for aluminium
 
 
 
